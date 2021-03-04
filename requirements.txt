@@ -1,0 +1,7 @@
+gunicorn
+google-cloud-pubsub
+google-cloud-logging
+xialib-pubsub
+pyxeed
+Flask
+xialib
